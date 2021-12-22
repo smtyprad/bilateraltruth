@@ -1,2 +1,1 @@
-# bilateraltruth.github.io
-Angry Creative 
+# bilateraltruth
